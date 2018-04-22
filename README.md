@@ -6,4 +6,4 @@
 
 `yarn relay`
 
-`yarn mockServer && yarn dev`
+`LOGGED_IN=true PORT=60088 yarn mockServer && yarn dev`
